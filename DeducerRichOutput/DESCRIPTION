@@ -1,0 +1,9 @@
+Package: DeducerRichOutput
+Version: 0.3.7
+Date: 2012-08-07
+Title: Rich Output Display for Deducer
+Author: Bill Altermatt & Ian Fellows
+Maintainer: Bill Altermatt <altermattw@hanover.edu>
+Description: HTML output support for Deducer
+Depends: Deducer, rJava
+License: GPL-2
